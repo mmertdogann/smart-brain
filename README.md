@@ -1,5 +1,7 @@
 # smart-brain frontend
 
+![Smart Brain](https://i.imgur.com/8vpk7ju.png)
+
 This is the frontend part of the Face Recognition App. I made this project via watching of the [Udemy](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/) course.
 
 To run the project:
